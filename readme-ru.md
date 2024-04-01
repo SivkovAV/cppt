@@ -2,11 +2,11 @@
 
 Упрощенный синтакс для некоторых популярных операций и процедур  в C++.
 
-Goals:
-* reduce code size
-* make code easier to read/write
-* make code more functional
+Цели:
+* уменьшить объема кода
+* упростить чтение/написание кода
+* сделать код более функциональным
 
-The Syntax is close to the Python language.
+Синтаксис приближен к языку Python. Совпадение? Не думаю...
 
-Have unit-tests (Microsoft Visual Studio solution: c++ and QT-framework).
+Тесты прилагаются (Microsoft Visual Studio solution: c++ и QT-framework).
