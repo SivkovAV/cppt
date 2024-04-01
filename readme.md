@@ -2,11 +2,12 @@
 
 Syntactic sugar for any popular c++ operations and functions
 
-Цели:
-* уменьшить объема кода
-* упростить чтение/написание кода
-* сделать код более функциональным
+Goals:
 
-Синтаксис приближен к языку Python. Совпадение? Не думаю...
+    reduce code size
+    make code easier to read/write
+    make code more functional
 
-Тесты прилагаются (Microsoft Visual Studio solution: c++ и QT-framework).
+The Syntax is close to the Python language.
+
+Have unit-tests (Microsoft Visual Studio solution: c++ and QT-framework).
