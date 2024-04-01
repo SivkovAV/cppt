@@ -3,10 +3,9 @@
 Syntactic sugar for any popular c++ operations and functions
 
 Goals:
-
-    reduce code size
-    make code easier to read/write
-    make code more functional
+* reduce code size
+* make code easier to read/write
+* make code more functional
 
 The Syntax is close to the Python language.
 
